@@ -6,7 +6,7 @@ subtitle: Ph.D. student of CVL, <a href='https://www.nottingham.ac.uk/'>Universi
 
 profile:
   align: right
-  image: zach.jpg
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>B73, Computer Science</p>
