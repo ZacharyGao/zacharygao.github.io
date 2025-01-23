@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: http://zacharygao.github.io/docsify #/blog/
+permalink: /docsify/ #/blog/
 title: AI Road Map
 nav: true
 nav_order: 1
