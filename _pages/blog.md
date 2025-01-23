@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /docsify/ #/blog/
-title: AI Road Map
+title: AI-road-map
 nav: true
 nav_order: 1
 pagination:
